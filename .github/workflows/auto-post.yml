@@ -1,0 +1,35 @@
+name: Auto PR Post
+
+on:
+  schedule:
+    - cron: "0 3 */3 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run posting script
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python auto-pr/scripts/post.py
+
+      - name: Commit updated queue
+        run: |
+          git config user.name "auto-pr-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add auto-pr/content_queue.json
+          git diff --cached --quiet || git commit -m "chore: mark post as published"
+          git push

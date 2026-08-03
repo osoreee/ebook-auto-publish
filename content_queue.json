@@ -1,0 +1,39 @@
+[
+  {
+    "id": "teaser-1",
+    "platform": "both",
+    "text": "블로그 6개월째 방치 중이었다.\n\n이번엔 다르게 해보기로 했다.\n12주 로드맵 짜서 처음부터 다시.\n\n그 과정, 책으로 정리하고 있다.\n곧 공개 📚",
+    "image": "images/book1_cover.png",
+    "posted": false
+  },
+  {
+    "id": "teaser-2",
+    "platform": "both",
+    "text": "블로그 수익화 실패하는 사람들 특징\n\n① 주제 못 정하고 시작\n② 수익화 조건 확인 안 함\n③ 의지로만 버팀\n\n이 세 개만 피해도 절반은 성공.\n12주 로드맵으로 정리했어요.",
+    "image": "images/book1_cover.png",
+    "posted": false
+  },
+  {
+    "id": "launch-book1",
+    "platform": "both",
+    "text": "《하루 30분, 3개월 만에 첫 원고료 받는 블로그 수익화》 출간했습니다.\n\n이론 말고, 이번 주에 뭐 해야 하는지 알려주는 실행 로드맵.\n\n링크 프로필에 있어요 🔗",
+    "image": "images/book1_cover.png",
+    "posted": false,
+    "note": "판매 링크 확정 후 text 안의 안내 문구 및 프로필 링크 업데이트 필요"
+  },
+  {
+    "id": "teaser-book2",
+    "platform": "both",
+    "text": "\"됬다\"인지 \"됐다\"인지, 매번 검색해서 확인하시나요?\n\n한국인이 가장 많이 틀리는 맞춤법만 뽑아서\n하루 10분, 7일 완성으로 정리했습니다.\n\n곧 공개 📖",
+    "image": "images/book2_cover.png",
+    "posted": false
+  },
+  {
+    "id": "launch-book2",
+    "platform": "both",
+    "text": "《하루 10분, 헷갈리는 맞춤법 완전정복》 출간했습니다.\n\n문법 이론서가 아니라, 실전 판별법 중심 참고서.\n7일이면 끝나고 평생 씁니다.\n\n링크 프로필에 있어요 🔗",
+    "image": "images/book2_cover.png",
+    "posted": false,
+    "note": "판매 링크 확정 후 text 안의 안내 문구 및 프로필 링크 업데이트 필요"
+  }
+]
