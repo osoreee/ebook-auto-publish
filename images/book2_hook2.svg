@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+  <style>
+    text { font-family: Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif; }
+    .eyebrow { font-size: 22px; font-weight: 700; fill: #5eead4; letter-spacing: 1px; }
+    .num { font-size: 140px; font-weight: 800; fill: #ffffff; }
+    .unit { font-size: 32px; font-weight: 700; fill: #5eead4; }
+    .headline { font-size: 34px; font-weight: 700; fill: #ffffff; }
+    .book { font-size: 20px; font-weight: 700; fill: #ffffff; }
+  </style>
+
+  <rect x="0" y="0" width="800" height="800" fill="#0f172a"/>
+
+  <text x="70" y="130" class="eyebrow">DAILY 10MIN</text>
+
+  <text x="70" y="330" class="num">8</text>
+  <text x="220" y="330" class="unit">일</text>
+
+  <text x="70" y="420" class="headline">하루 10분씩,</text>
+  <text x="70" y="466" class="headline">150개 표현이</text>
+  <text x="70" y="512" class="headline">정리됩니다</text>
+
+  <text x="70" y="580" font-size="24" fill="#94a3b8">예문 + 판별법 + 미니 퀴즈</text>
+  <text x="70" y="612" font-size="24" fill="#94a3b8">Day 7 실전 문장 교정까지</text>
+
+  <rect x="70" y="670" width="240" height="56" rx="28" fill="#0d9488"/>
+  <text x="190" y="706" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">지금 시작하기 →</text>
+
+  <text x="70" y="765" class="book">하루 10분, 헷갈리는 맞춤법 완전정복</text>
+</svg>

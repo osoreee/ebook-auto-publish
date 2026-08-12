@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+  <style>
+    text { font-family: Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif; }
+    .eyebrow { font-size: 22px; font-weight: 700; fill: #93c5fd; letter-spacing: 1px; }
+    .headline { font-size: 56px; font-weight: 800; fill: #ffffff; }
+    .sub { font-size: 24px; font-weight: 500; fill: #cbd5e1; }
+    .book { font-size: 20px; font-weight: 700; fill: #ffffff; }
+  </style>
+
+  <rect x="0" y="0" width="800" height="800" fill="#0f172a"/>
+  <rect x="0" y="0" width="800" height="800" fill="#1e3a8a" opacity="0.25"/>
+
+  <text x="70" y="140" class="eyebrow">BLOG MONEY</text>
+
+  <text x="70" y="250" class="headline">블로그,</text>
+  <text x="70" y="322" class="headline">6개월째</text>
+  <text x="70" y="394" class="headline">방치 중이신가요?</text>
+
+  <text x="70" y="470" class="sub">이론 말고, 이번 주에</text>
+  <text x="70" y="504" class="sub">뭘 해야 하는지 알려주는</text>
+  <text x="70" y="538" class="sub">12주 실행 로드맵</text>
+
+  <rect x="70" y="600" width="240" height="56" rx="28" fill="#2563eb"/>
+  <text x="190" y="636" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">지금 확인하기 →</text>
+
+  <text x="70" y="740" class="book">하루 30분, 3개월 만에 첫 원고료 받는 블로그 수익화</text>
+</svg>

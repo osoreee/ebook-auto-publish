@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+  <style>
+    text { font-family: Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif; }
+    .eyebrow { font-size: 22px; font-weight: 700; fill: #93c5fd; letter-spacing: 1px; }
+    .headline { font-size: 40px; font-weight: 800; fill: #ffffff; }
+    .num { font-size: 64px; font-weight: 800; fill: #60a5fa; }
+    .item { font-size: 30px; font-weight: 700; fill: #ffffff; }
+    .book { font-size: 20px; font-weight: 700; fill: #ffffff; }
+  </style>
+
+  <rect x="0" y="0" width="800" height="800" fill="#0f172a"/>
+
+  <text x="70" y="130" class="eyebrow">FAIL CHECK</text>
+  <text x="70" y="200" class="headline">블로그 수익화,</text>
+  <text x="70" y="252" class="headline">실패하는 이유 3가지</text>
+
+  <text x="70" y="380" class="num">1</text>
+  <text x="150" y="380" class="item">주제를 못 정하고 시작</text>
+  <line x1="70" y1="420" x2="730" y2="420" stroke="#334155" stroke-width="1"/>
+
+  <text x="70" y="490" class="num">2</text>
+  <text x="150" y="490" class="item">수익화 조건 확인 안 함</text>
+  <line x1="70" y1="530" x2="730" y2="530" stroke="#334155" stroke-width="1"/>
+
+  <text x="70" y="600" class="num">3</text>
+  <text x="150" y="600" class="item">의지로만 버팀</text>
+
+  <rect x="70" y="660" width="280" height="56" rx="28" fill="#2563eb"/>
+  <text x="210" y="696" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">이 세 개만 피하면 →</text>
+
+  <text x="70" y="760" class="book">하루 30분, 3개월 만에 첫 원고료 받는 블로그 수익화</text>
+</svg>
