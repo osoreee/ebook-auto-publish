@@ -56,7 +56,7 @@ def post_threads(text, image_rel_path):
 
 
 def post_instagram(text, image_rel_path):
-    base = f"https://graph.facebook.com/v21.0/{IG_USER_ID}"
+    base = f"https://graph.instagram.com/v21.0/{IG_USER_ID}"
     created = http_post(f"{base}/media", {
         "access_token": IG_TOKEN,
         "image_url": raw_url(image_rel_path),
