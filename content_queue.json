@@ -4,41 +4,47 @@
     "platform": "both",
     "text": "블로그 6개월째 방치 중이었다.\n\n이번엔 다르게 해보기로 했다.\n12주 로드맵 짜서 처음부터 다시.\n\n그 과정, 책으로 정리하고 있다.\n곧 공개 📚",
     "image": "images/book1_hook1.png",
-    "posted": false
+    "posted_threads": true,
+    "posted_instagram": false
   },
   {
     "id": "teaser-2",
     "platform": "both",
     "text": "블로그 수익화 실패하는 사람들 특징\n\n① 주제 못 정하고 시작\n② 수익화 조건 확인 안 함\n③ 의지로만 버팀\n\n이 세 개만 피해도 절반은 성공.\n12주 로드맵으로 정리했어요.",
     "image": "images/book1_hook2.png",
-    "posted": false
+    "posted_threads": false,
+    "posted_instagram": false
   },
   {
     "id": "launch-book1",
     "platform": "both",
     "text": "《하루 30분, 3개월 만에 첫 원고료 받는 블로그 수익화》 출간했습니다.\n\n이론 말고, 이번 주에 뭐 해야 하는지 알려주는 실행 로드맵.\n\n2,900원 · https://osoreee.upaper.kr/content/1221242",
     "image": "images/book1_cover.png",
-    "posted": false
+    "posted_threads": false,
+    "posted_instagram": false
   },
   {
     "id": "teaser-book2",
     "platform": "both",
     "text": "\"됬다\"인지 \"됐다\"인지, 매번 검색해서 확인하시나요?\n\n한국인이 가장 많이 틀리는 맞춤법만 뽑아서\n하루 10분, 8일 완성으로 정리했습니다.\n\n곧 공개 📖",
     "image": "images/book2_hook1.png",
-    "posted": false
+    "posted_threads": false,
+    "posted_instagram": false
   },
   {
     "id": "hook-book2-2",
     "platform": "both",
     "text": "하루 10분씩, 8일이면 150개 표현이 정리됩니다.\n\n예문 + 판별법 + 미니 퀴즈\nDay 7 실전 문장 교정까지.",
     "image": "images/book2_hook2.png",
-    "posted": false
+    "posted_threads": false,
+    "posted_instagram": false
   },
   {
     "id": "launch-book2",
     "platform": "both",
     "text": "《하루 10분, 헷갈리는 맞춤법 완전정복》 출간했습니다.\n\n문법 이론서가 아니라, 실전 판별법 중심 참고서.\n8일이면 끝나고 평생 씁니다.\n\n2,900원 · https://osoreee.upaper.kr/content/1221250",
     "image": "images/book2_cover.png",
-    "posted": false
+    "posted_threads": false,
+    "posted_instagram": false
   }
 ]

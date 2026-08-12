@@ -63,7 +63,8 @@
   "platform": "both",
   "text": "게시할 본문",
   "image": "images/파일명.png",
-  "posted": false
+  "posted_threads": false,
+  "posted_instagram": false
 }
 ```
 
