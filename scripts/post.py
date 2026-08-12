@@ -17,7 +17,7 @@ BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 
 
 def raw_url(rel_path):
-    return f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/auto-pr/{rel_path}"
+    return f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/{rel_path}"
 
 
 def http_post(url, params):

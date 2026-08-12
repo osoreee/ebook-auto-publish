@@ -24,12 +24,12 @@ jobs:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: python auto-pr/scripts/post.py
+        run: python scripts/post.py
 
       - name: Commit updated queue
         run: |
           git config user.name "auto-pr-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add auto-pr/content_queue.json
+          git add content_queue.json
           git diff --cached --quiet || git commit -m "chore: mark post as published"
           git push
