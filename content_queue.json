@@ -8,41 +8,59 @@
     "posted_instagram": true
   },
   {
-    "id": "teaser-2",
-    "platform": "both",
-    "text": "블로그 수익화 실패하는 사람들 특징\n\n① 주제 못 정하고 시작\n② 수익화 조건 확인 안 함\n③ 의지로만 버팀\n\n이 세 개만 피해도 절반은 성공.\n12주 로드맵으로 정리했어요.",
-    "image": "images/book1_hook2.png",
+    "id": "book1-reflect-1",
+    "platform": "threads",
+    "text": "블로그 수익화 처음 시작할 때 제일 막막했던 게 뭐였어요?\n\n저는 뭐부터 해야 할지도 몰라서 그냥 이것저것 쓰다가 흐지부지됐었어요.",
+    "posted_threads": false,
+    "posted_instagram": false
+  },
+  {
+    "id": "book1-reflect-2",
+    "platform": "threads",
+    "text": "이론은 많이 봤는데 \"그래서 이번 주에 뭐 하지\"에 답해주는 자료는 별로 없더라고요.\n\n그래서 순서를 12주로 나눠서 정리해봤어요.",
+    "posted_threads": false,
+    "posted_instagram": false
+  },
+  {
+    "id": "book1-reflect-3",
+    "platform": "threads",
+    "text": "블로그 만들어놓고 몇 달째 손 놓고 계신 분, 저만 그런 거 아니죠?\n\n다시 시작하려니까 뭐부터 해야 할지 순서가 필요하더라고요.",
     "posted_threads": false,
     "posted_instagram": false
   },
   {
     "id": "launch-book1",
     "platform": "both",
-    "text": "《하루 30분, 3개월 만에 첫 원고료 받는 블로그 수익화》 출간했습니다.\n\n이론 말고, 이번 주에 뭐 해야 하는지 알려주는 실행 로드맵.\n\n2,900원 · https://osoreee.upaper.kr/content/1221242",
+    "text": "블로그 방치했던 경험에서 시작해서, 12주 로드맵으로 정리한 책이 나왔습니다.\n\n《하루 30분, 3개월 만에 첫 원고료 받는 블로그 수익화》\n\n화려한 수익 인증 대신, 완전 초보 눈높이에서 실제로 따라 할 수 있는 순서만 담았어요.\n\n2,900원 · https://osoreee.upaper.kr/content/1221242",
     "image": "images/book1_cover.png",
     "posted_threads": false,
     "posted_instagram": false
   },
   {
-    "id": "teaser-book2",
-    "platform": "both",
-    "text": "\"됬다\"인지 \"됐다\"인지, 매번 검색해서 확인하시나요?\n\n한국인이 가장 많이 틀리는 맞춤법만 뽑아서\n하루 10분, 8일 완성으로 정리했습니다.\n\n곧 공개 📖",
-    "image": "images/book2_hook1.png",
+    "id": "book2-reflect-1",
+    "platform": "threads",
+    "text": "됬다인지 됐다인지, 쓸 때마다 검색해보신 적 있으세요?\n\n저는 매번 그랬어요. 분명 배운 적 있는데 막상 쓰려면 헷갈리더라고요.",
     "posted_threads": false,
     "posted_instagram": false
   },
   {
-    "id": "hook-book2-2",
-    "platform": "both",
-    "text": "하루 10분씩, 8일이면 150개 표현이 정리됩니다.\n\n예문 + 판별법 + 미니 퀴즈\nDay 7 실전 문장 교정까지.",
-    "image": "images/book2_hook2.png",
+    "id": "book2-reflect-2",
+    "platform": "threads",
+    "text": "맞춤법 책이라고 하면 문법 이론서부터 떠오르실 텐데, 저는 그게 제일 재미없더라고요.\n\n그래서 이론 대신 판별법이랑 예문 위주로만 정리했어요.",
+    "posted_threads": false,
+    "posted_instagram": false
+  },
+  {
+    "id": "book2-reflect-3",
+    "platform": "threads",
+    "text": "며칠/몇일, 왠일/웬일... 이거 헷갈리는 거 저만 그런 거 아니죠?\n\n한국인이 제일 많이 틀리는 표현만 뽑아서 정리해봤어요.",
     "posted_threads": false,
     "posted_instagram": false
   },
   {
     "id": "launch-book2",
     "platform": "both",
-    "text": "《하루 10분, 헷갈리는 맞춤법 완전정복》 출간했습니다.\n\n문법 이론서가 아니라, 실전 판별법 중심 참고서.\n8일이면 끝나고 평생 씁니다.\n\n2,900원 · https://osoreee.upaper.kr/content/1221250",
+    "text": "블로그 로드맵에 이어, 국어 실전 시리즈 두 번째 책이 나왔습니다.\n\n《하루 10분, 헷갈리는 맞춤법 완전정복》\n\n어려운 문법 용어 대신, 실생활에서 바로 써먹는 판별법 위주로만 담았어요.\n\n2,900원 · https://osoreee.upaper.kr/content/1221250",
     "image": "images/book2_cover.png",
     "posted_threads": false,
     "posted_instagram": false
